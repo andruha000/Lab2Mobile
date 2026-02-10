@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ЛР1</string>
+    <string name="artwork_artist">Винсент ван Гог</string>
+    <string name="artwork1_name">Подсолнухи</string>
+    <string name="artwork2_name">Портрет доктора Поля Гаше</string>
+    <string name="artwork3_name">Звёздная ночь</string>
+    <string name="artwork4_name">Сад больницы в Сен-Реми</string>
+    <string name="artwork1_description">Картина "Подсолнухи" Винсента ван Гога. Ваза с яркими жёлтыми подсолнухами на столе. Маслом на холсту, 1889.</string>
+    <string name="artwork2_description">Картина "Портрет доктора Поля Гаше" Винсента ван Гога. Портрет мужчины с меланхоличным выражением лица, в синем пиджаке, подперевшего голову рукой. Маслом на холсту, 1890.</string>
+    <string name="artwork3_description">Картина "Звёздная ночь" Винсента ван Гога. Ночное небо с вьющимися синими облаками, яркими звёздами и полумесяцем над тихой деревней и тёмным кипарисом. Маслом на холсту, 1889.</string>
+    <string name="artwork4_description">Картина "Сад больницы в Сен-Реми" Винсента ван Гога. Пышный сад с извилистыми дорожками, высокими деревьями и яркими цветами. Маслом на холсту, 1889.</string>
+    <string name="previous_button_name">Предыдущий</string>
+    <string name="next_button_name">Следующий</string>
+    <string name="previous_button_description">Кнопка: Перейти к следующему произведению искусства</string>
+    <string name="next_button_description">Кнопка: Перейти к предыдущему произведению искусства</string>
+</resources>
