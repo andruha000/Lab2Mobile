@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">lab1</string>
+    <string name="app_name">lab2</string>
     <string name="artwork_artist">Vincent van Gogh</string>
     <string name="artwork1_name">Sunflowers</string>
     <string name="artwork2_name">Dr Paul Gachet</string>
